@@ -1,0 +1,14 @@
+{
+  "id": "deviantart",
+  "name": "DeviantArt",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["deviantart.com"],
+  "toc_selectors": ["div.folderview-art a.torpedo-thumb-link"],
+  "content_selectors": ["div.dev-view-deviation", "div[class*='deviation-content']", "div[data-hook='deviation_std_literature']"],
+  "title_selectors": ["div.folderview-top h1", "h1"],
+  "author_selectors": ["a.username", "a[data-hook='deviation_user_link']"],
+  "description_selectors": [],
+  "cover_selectors": ["img.dev-content-full", "img[fetchpriority='high']"]
+}

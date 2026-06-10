@@ -1,0 +1,14 @@
+{
+  "id": "ficbook",
+  "name": "FicBook",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["ficbook.net", "fic.fan", "fanfictionero.com", "ficador.com"],
+  "toc_selectors": ["a.part-link", "ul.chapters-list a"],
+  "content_selectors": ["div#content", "article.fanfic-body", "div.fanfic-part"],
+  "title_selectors": ["h1.heading", "h1"],
+  "author_selectors": ["a.creator-username", "a[href*='/authors/']"],
+  "description_selectors": ["div.fanfic-description", "div.description"],
+  "cover_selectors": ["meta[property='og:image']"]
+}

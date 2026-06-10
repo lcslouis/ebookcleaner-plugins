@@ -1,0 +1,14 @@
+{
+  "id": "fictionread",
+  "name": "FictionRead",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["fictionread.net"],
+  "toc_selectors": ["ul.chapter-list a", "li.chapter a"],
+  "content_selectors": ["div.chapter-content", "div.read-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["img.cover"]
+}

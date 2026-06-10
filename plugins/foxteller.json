@@ -1,0 +1,14 @@
+{
+  "id": "foxteller",
+  "name": "FoxTeller",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["foxteller.com"],
+  "toc_selectors": ["a.chapter-link", "div.chapter-list a"],
+  "content_selectors": ["div.chapter-text", "div.content"],
+  "title_selectors": ["h1"],
+  "author_selectors": ["a.author-name"],
+  "description_selectors": [],
+  "cover_selectors": ["img.cover"]
+}

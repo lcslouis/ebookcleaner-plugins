@@ -1,0 +1,14 @@
+{
+  "id": "asianfanfics",
+  "name": "AsianFanfics",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["asianfanfics.com"],
+  "toc_selectors": ["aside ul a", "ul.chapter-list a"],
+  "content_selectors": ["div#user-submitted-body", "div.body-text"],
+  "title_selectors": ["h1#story-title", "h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["div#bodyText img:first-of-type"]
+}

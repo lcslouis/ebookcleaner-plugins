@@ -1,0 +1,14 @@
+{
+  "id": "flying_lines",
+  "name": "Flying Lines",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["flying-lines.com"],
+  "toc_selectors": ["li.chapter-item a", "div.chapter-list a"],
+  "content_selectors": ["div.chapter-content", "div.read-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["img.book-cover"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "betwixtedbutterfly",
+  "name": "Betwixtedbutterfly",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["betwixtedbutterfly.com"],
+  "toc_selectors": ["div.elementor-widget-container a[href*='chapter']"],
+  "content_selectors": ["div.elementor-widget-text-editor", "div.entry-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": []
+}

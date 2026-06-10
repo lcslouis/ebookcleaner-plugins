@@ -1,0 +1,14 @@
+{
+  "id": "chrysanthemum_garden",
+  "name": "Chrysanthemum Garden",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["chrysanthemumgarden.com"],
+  "toc_selectors": ["li.chapter a", "ul.table_of_contents a", "div.chapter-listing a"],
+  "content_selectors": ["div#content", "article.post-content", "div.entry-content"],
+  "title_selectors": ["h1", "h2.title"],
+  "author_selectors": ["a.author"],
+  "description_selectors": [],
+  "cover_selectors": ["img.attachment-post-thumbnail"]
+}

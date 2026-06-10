@@ -1,0 +1,14 @@
+{
+  "id": "akknovel",
+  "name": "AkkNovel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["akknovel.com"],
+  "toc_selectors": ["div.chapter-item a", "ul.chapter-list a"],
+  "content_selectors": ["#chr-content", "#chapter-content", "div.chapter-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["div.aspect-h-4 img", "div.book-cover img"]
+}

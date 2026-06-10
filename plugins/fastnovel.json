@@ -1,0 +1,14 @@
+{
+  "id": "fastnovel",
+  "name": "FastNovel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["fastnovel.net", "novelgate.net"],
+  "toc_selectors": ["div#list-chapters li a"],
+  "content_selectors": ["div#chapter-body"],
+  "title_selectors": ["div.film-info h1"],
+  "author_selectors": ["div.film-info ul.meta-data a"],
+  "description_selectors": [],
+  "cover_selectors": ["div.book-cover img[data-original]"]
+}

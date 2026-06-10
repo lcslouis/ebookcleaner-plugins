@@ -1,0 +1,14 @@
+{
+  "id": "fictionmania",
+  "name": "FictionMania",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["fictionmania.tv"],
+  "toc_selectors": ["table a[href*='xstory']", "table a"],
+  "content_selectors": ["pre", "div.story"],
+  "title_selectors": ["h1", "title"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": []
+}

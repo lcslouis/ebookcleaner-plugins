@@ -1,0 +1,14 @@
+{
+  "id": "alicesw",
+  "name": "AlicesSW",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["alicesw.com"],
+  "toc_selectors": [".tit a", "ul.chapter-list a"],
+  "content_selectors": [".read-content", "div.chapter-content"],
+  "title_selectors": [".novel_title", "h1"],
+  "author_selectors": [".novel_info > p:first-child > a"],
+  "description_selectors": [],
+  "cover_selectors": [".novel_title img", "img.cover"]
+}

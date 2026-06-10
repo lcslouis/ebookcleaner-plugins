@@ -1,0 +1,14 @@
+{
+  "id": "athenatls",
+  "name": "AthenaTLS",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["athenatls.com"],
+  "toc_selectors": [".chapter-list a", "ul.chapters a"],
+  "content_selectors": ["div.chapter-text-content", "div.entry-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": []
+}

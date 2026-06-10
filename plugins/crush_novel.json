@@ -1,0 +1,14 @@
+{
+  "id": "crush_novel",
+  "name": "Crush Novel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["crushnovel.com"],
+  "toc_selectors": ["ul.chapter-list a", "div.chapter-list a"],
+  "content_selectors": ["div.chapter-content", "#chapter-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["img.book-cover"]
+}

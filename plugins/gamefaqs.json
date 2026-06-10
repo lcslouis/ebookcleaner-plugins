@@ -1,0 +1,14 @@
+{
+  "id": "gamefaqs",
+  "name": "GameFAQs",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["gamefaqs.gamespot.com"],
+  "toc_selectors": [".ftoc a"],
+  "content_selectors": ["#faqwrap", "div.faqtext"],
+  "title_selectors": ["h1"],
+  "author_selectors": [".contrib-credits a"],
+  "description_selectors": [],
+  "cover_selectors": []
+}

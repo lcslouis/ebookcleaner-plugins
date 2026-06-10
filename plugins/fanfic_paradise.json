@@ -1,0 +1,14 @@
+{
+  "id": "fanfic_paradise",
+  "name": "FanFic Paradise",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["fanficparadise.com"],
+  "toc_selectors": ["ul.chapter-list a", "div.chapter-list a"],
+  "content_selectors": ["div.chapter-content", "div#chapter"],
+  "title_selectors": ["h1"],
+  "author_selectors": ["a.author"],
+  "description_selectors": [],
+  "cover_selectors": []
+}

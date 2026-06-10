@@ -1,0 +1,14 @@
+{
+  "id": "nhv_pie_novels",
+  "name": "NHV/Pie Novels",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["nhvnovels.com", "pienovels.com"],
+  "toc_selectors": [".chapter-title a", "ul.chapter-list a"],
+  "content_selectors": [".chapter-text", "div.chapter-content"],
+  "title_selectors": [".novel-title", "h1"],
+  "author_selectors": [".badge-author"],
+  "description_selectors": [],
+  "cover_selectors": [".novel-image img"]
+}

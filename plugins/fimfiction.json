@@ -1,0 +1,14 @@
+{
+  "id": "fimfiction",
+  "name": "FimFiction",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["fimfiction.net"],
+  "toc_selectors": ["ul.chapters a.chapter-title", "ol.chapters a.chapter-title"],
+  "content_selectors": ["div#chapter", "div.bbcode", "div.chapter-content"],
+  "title_selectors": ["a.story_name", "h1.story_name", "h1"],
+  "author_selectors": ["div.info-container a[href*='/user/']", "a.author"],
+  "description_selectors": ["div.description-text", "div.description"],
+  "cover_selectors": ["div.story_container__story_image img", "img.story_image"]
+}

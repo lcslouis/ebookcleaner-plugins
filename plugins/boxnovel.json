@@ -1,0 +1,14 @@
+{
+  "id": "boxnovel",
+  "name": "BoxNovel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["boxnovel.org", "boxnovel.com"],
+  "toc_selectors": ["ul.list-chapter a", "div.listing-chapters_wrap a"],
+  "content_selectors": ["div#chr-content", "div.text-left", "div.entry-content"],
+  "title_selectors": ["div.post-title h1", "h3.title", "h1"],
+  "author_selectors": [],
+  "description_selectors": ["div.summary__content", "div.description-summary"],
+  "cover_selectors": ["div.summary_image img", "div.book img"]
+}

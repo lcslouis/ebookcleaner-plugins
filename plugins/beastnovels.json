@@ -1,0 +1,14 @@
+{
+  "id": "beastnovels",
+  "name": "BeastNovels",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["beastnovels.com"],
+  "toc_selectors": ["a.chapter-card", "div.chapter-list a"],
+  "content_selectors": [".chapter-content", "div#chapter-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["img.book-cover", "img.cover"]
+}

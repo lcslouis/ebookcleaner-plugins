@@ -1,0 +1,14 @@
+{
+  "id": "fictionhunt",
+  "name": "FictionHunt",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["fictionhunt.com"],
+  "toc_selectors": [".chapter-number a", "ul.chapter-list a"],
+  "content_selectors": ["div.StoryChapter__text", "div.chapter-text", "article"],
+  "title_selectors": ["h1"],
+  "author_selectors": [".Story__meta a"],
+  "description_selectors": [],
+  "cover_selectors": []
+}

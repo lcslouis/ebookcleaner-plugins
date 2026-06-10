@@ -1,0 +1,14 @@
+{
+  "id": "czbooks",
+  "name": "CzBooks",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["czbooks.net"],
+  "toc_selectors": ["ul.chapter-list a"],
+  "content_selectors": [".content", "div#content", "article"],
+  "title_selectors": [".novel-detail .title", "h1"],
+  "author_selectors": [".novel-detail span.author a"],
+  "description_selectors": [],
+  "cover_selectors": []
+}

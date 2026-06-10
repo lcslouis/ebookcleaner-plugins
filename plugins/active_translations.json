@@ -1,0 +1,14 @@
+{
+  "id": "active_translations",
+  "name": "Active Translations",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["activetranslations.xyz"],
+  "toc_selectors": ["li.wp-manga-chapter a", "div.chapter-list a"],
+  "content_selectors": ["div.reading-content", "div.entry-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": [".summary_image img"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "eng_novel",
+  "name": "Eng Novel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["engnovel.com"],
+  "toc_selectors": ["ul.chapter-list a", "li.chapter-item a"],
+  "content_selectors": ["div.chapter-content", "div#chapter-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["div.book-image img"]
+}

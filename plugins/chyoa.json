@@ -1,0 +1,14 @@
+{
+  "id": "chyoa",
+  "name": "Chyoa",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["chyoa.com"],
+  "toc_selectors": ["div.chapter-list a[href*='/chapter/']"],
+  "content_selectors": ["div.story-text", "div.chapter-text"],
+  "title_selectors": ["h1", "h2.story-title"],
+  "author_selectors": ["a.author"],
+  "description_selectors": [],
+  "cover_selectors": ["img.cover-image"]
+}

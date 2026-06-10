@@ -1,0 +1,14 @@
+{
+  "id": "wuxiaclick",
+  "name": "WuxiaClick",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["wuxiaclick.com", "wuxiaworld.eu"],
+  "toc_selectors": ["ul.chapter-list a", "li.chapter-item a"],
+  "content_selectors": ["div.chapter-content", "div#chapter-content", "div.entry-content"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": ["div.description", "div.summary"],
+  "cover_selectors": ["img.book-cover"]
+}

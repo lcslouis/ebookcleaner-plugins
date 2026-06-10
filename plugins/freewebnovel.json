@@ -1,0 +1,14 @@
+{
+  "id": "freewebnovel",
+  "name": "FreeWebNovel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["freewebnovel.com", "bednovel.com", "innnovel.com", "libread.com", "novellive.com", "novellive.app", "novellive.net", "readwn.org"],
+  "toc_selectors": ["ul#idData li a", ".m-newest2 ul li a", "ul.chapter-list a"],
+  "content_selectors": ["div.txt", "div#chapter-content", "div.chapter-content"],
+  "title_selectors": ["h1.tit", "h1"],
+  "author_selectors": ["[title=Author] a", "a[href*='author']"],
+  "description_selectors": ["div.desc", "div.intro", "div.summary"],
+  "cover_selectors": ["div.pic img", "div.book-img img", "img.cover"]
+}

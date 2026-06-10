@@ -1,0 +1,14 @@
+{
+  "id": "goldennovel",
+  "name": "GoldenNovel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["goldennovel.com"],
+  "toc_selectors": ["div#content-b ul.list a", "ul.chapter-list a"],
+  "content_selectors": ["div.content", "div#content"],
+  "title_selectors": [],
+  "author_selectors": ["span.tip a"],
+  "description_selectors": [],
+  "cover_selectors": ["div.cover img"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "empirenovel",
+  "name": "EmpireNovel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["empirenovel.com"],
+  "toc_selectors": ["a.chapter_link", "ul.chapter-list a"],
+  "content_selectors": ["#read-novel", "div.chapter-content"],
+  "title_selectors": ["h1:not(.show_title)", "h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": ["div.cover img"]
+}

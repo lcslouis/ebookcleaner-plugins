@@ -1,0 +1,14 @@
+{
+  "id": "goodnovel",
+  "name": "GoodNovel",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["goodnovel.com"],
+  "toc_selectors": ["div.catalog-box a", "ul.catalog-list a"],
+  "content_selectors": [".read-chapter > .read-content", ".read-content", "div.chapter-content"],
+  "title_selectors": [".bib_info > h1", "h1"],
+  "author_selectors": [".auth > a", "a.author"],
+  "description_selectors": [".intro", ".summary"],
+  "cover_selectors": [".bib_img > img", "img.cover"]
+}

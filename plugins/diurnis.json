@@ -1,0 +1,14 @@
+{
+  "id": "diurnis",
+  "name": "Diurnis",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["diurnis.com"],
+  "toc_selectors": ["div.chapter-list a", "ul.chapters a"],
+  "content_selectors": ["div.chapter-content", "article"],
+  "title_selectors": ["h1"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": []
+}

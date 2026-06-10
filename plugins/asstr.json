@@ -1,0 +1,14 @@
+{
+  "id": "asstr",
+  "name": "ASSTR",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["asstr.org"],
+  "toc_selectors": ["body a[href]"],
+  "content_selectors": ["pre", "body"],
+  "title_selectors": ["title"],
+  "author_selectors": [],
+  "description_selectors": [],
+  "cover_selectors": []
+}

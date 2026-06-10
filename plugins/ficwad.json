@@ -1,0 +1,14 @@
+{
+  "id": "ficwad",
+  "name": "Ficwad",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["ficwad.com"],
+  "toc_selectors": ["ol.toc a", "ul.toc a", "div.toc a"],
+  "content_selectors": ["div#storytext", "div.storytext"],
+  "title_selectors": ["h3 a", "h1", "h2"],
+  "author_selectors": ["a[href^='/profile/']"],
+  "description_selectors": [],
+  "cover_selectors": []
+}

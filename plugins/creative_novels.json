@@ -1,0 +1,14 @@
+{
+  "id": "creative_novels",
+  "name": "Creative Novels",
+  "version": "1.0.0",
+  "author": "bundled",
+  "description": "Bundled plugin migrated from built-in configs",
+  "domains": ["creativenovels.com"],
+  "toc_selectors": ["div#chapter_list_novel_page a", "div.post_box a", "ul.chapter-list a"],
+  "content_selectors": ["div.entry-content.content", "div.entry-content", "article"],
+  "title_selectors": ["header.entry-header h1", "h1.entry-title", "h1"],
+  "author_selectors": [],
+  "description_selectors": ["div.novel-description", "div.summary__content"],
+  "cover_selectors": ["img.book_cover", "img.wp-post-image"]
+}
